@@ -13,6 +13,6 @@
     </ul>
  </main>
  <footer>
-   <p>Site desenvolvido por Kelvin Soares</p>
+   <p>Site desenvolvido por <string>Kelvin Soares</string></p>
  </footer>
 <!-- Fim do conteúdo -->
