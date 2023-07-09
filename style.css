@@ -8,7 +8,6 @@ body {
     background-color: white;
 }
 
-footer {
+footer > p {
     text-align: center;
-    border-radius: 3px;
 }
