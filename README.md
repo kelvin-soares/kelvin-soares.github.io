@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="style.css">
-
 # <a href="https://kelvin-soares.github.io/">kelvin-soares.github.io</a>
+
+<link rel="stylesheet" href="style.css">
 <!-- Conteúdo -->
  <main>
     <h1>Repositório público de Kelvin Soares</h1>
