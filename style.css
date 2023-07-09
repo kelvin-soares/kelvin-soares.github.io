@@ -12,6 +12,10 @@ main {
     margin: auto;
 }
 
+main > h1 {
+    font-size: 25px;
+}
+
 main > p {
     text-align: justify;
 }
