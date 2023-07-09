@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+
 body {
     text-align: center;
 }
@@ -35,4 +36,10 @@ footer > p {
     text-align: center;
     border-radius: 5px;
     border: 1px solid black;
+}
+
+@media screen and (min-width: 768px) {
+    main, footer {
+        max-width: 768px;
+    }
 }
