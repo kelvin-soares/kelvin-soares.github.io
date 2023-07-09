@@ -8,10 +8,9 @@ body {
     background-color: white;
 }
 
-p {
-    text-align: justify;
-}
-
-li > a {
-    font-weight: bolder;
+footer {
+    text-align: center;
+    background-color: gray;
+    border-radius: 3px;
+    
 }

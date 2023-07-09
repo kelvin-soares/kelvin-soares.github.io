@@ -12,5 +12,7 @@
       </li>
     </ul>
  </main>
- <footer>Site desenvolvido por Kelvin Soares</footer>
+ <footer>
+   <p>Site desenvolvido por Kelvin Soares</p>
+ </footer>
 <!-- Fim do conteúdo -->
